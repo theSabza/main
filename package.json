@@ -1,0 +1,23 @@
+{
+  "name": "sabza-main",
+  "version": "0.1.0",
+  "description": "Sabza main site pages",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theSabza/main.git"
+  },
+  "author": "Hamza A. Dastagir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theSabza/main/issues"
+  },
+  "homepage": "https://github.com/theSabza/main#readme"
+}
