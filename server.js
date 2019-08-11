@@ -6,10 +6,10 @@
 
 const express = require('express');
 const app = express();
-const port = 3101;
+const port = 3301;
 
 app.get('/', (req, res) => {
-    res.send('Sabza Admin Frontend Server ');
+    res.send('Sabza Main Site Frontend Server ');
 });
 
 app.get('/hello', (req, res) => {
